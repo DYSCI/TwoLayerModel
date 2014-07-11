@@ -1,4 +1,4 @@
-TwoLayerModel
+Model of Reflectance from Media with Two Distinct Optical Layers
 =============
 
 Implementation of the following paper:
