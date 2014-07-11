@@ -16,11 +16,10 @@ Quick Start
 
 For n = 1.44, the file ReflectanceN144.mat contain sample reflectance values. You can use this to see if the model will be accurate in your application 
 
-License
-=============
 The MIT License (MIT)
+=============
 
-Copyright (c) 2009, Dmitry Yudovsky, DYSCI Inc.
+Copyright (c) 2014, Dmitry Yudovsky, DYSCI Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
