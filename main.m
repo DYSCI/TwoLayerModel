@@ -6,7 +6,7 @@
 %       6670-6683.   
 %   Author: Dmirty Yudovsky, DYSCI Inc., yudovsky@dysci.com
 %
-%   Copyright (c) 2009, Dmitry Yudovsky, DYSCI Inc.
+%   Copyright (c) 2014, Dmitry Yudovsky, DYSCI Inc.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear
